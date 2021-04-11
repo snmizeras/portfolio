@@ -5,7 +5,8 @@
 </p>
 
 
-
-![Image1](https://snmizeras.github.io/portfolio/04-nature_721703848.jpg)![Image2](https://snmizeras.github.io/portfolio/loveourplanet-4851331__340.webp) ![Image3](https://snmizeras.github.io/portfolio/photo-1503023345310-bd7c1de61c7d.jfif)
-
-
+<p align="center">
+  <img width="460" height="300" src="https://snmizeras.github.io/portfolio/04-nature_721703848.jpg">
+  <img width="460" height="300" src="https://snmizeras.github.io/portfolio/loveourplanet-4851331__340.webp">
+  <img width="460" height="300" src="https://snmizeras.github.io/portfolio/photo-1541963463532-d68292c34b19.jfif">
+</p>
