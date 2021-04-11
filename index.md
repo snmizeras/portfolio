@@ -6,6 +6,6 @@
 
 
 
-![Image1](https://snmizeras.github.io/portfolio/04-nature_721703848.jpg){: align="center"} ![Image2](https://snmizeras.github.io/portfolio/loveourplanet-4851331__340.webp){: align="center"} ![Image3](https://snmizeras.github.io/portfolio/photo-1444703686981-a3abbc4d4fe3.jfif){: align="center"}
+![Image1](https://snmizeras.github.io/portfolio/04-nature_721703848.jpg)![Image2](https://snmizeras.github.io/portfolio/loveourplanet-4851331__340.webp) ![Image3](https://snmizeras.github.io/portfolio/photo-1503023345310-bd7c1de61c7d.jfif)
 
 
