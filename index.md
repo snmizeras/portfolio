@@ -1,1 +1,3 @@
-# About Me Gallery Contact
+## About Me 
+## Gallery 
+## Contact
