@@ -6,19 +6,19 @@
 
 
 <p align="center">
-  <img style="padding: 10px width="460" height="300" src="https://snmizeras.github.io/portfolio/04-nature_721703848.jpg">
-  <img style="padding: 10px width="460" height="300" src="https://snmizeras.github.io/portfolio/loveourplanet-4851331__340.webp"> 
-  <img style="padding: 10px width="460" height="300" src="https://snmizeras.github.io/portfolio/photo-1541963463532-d68292c34b19.jfif">
+  <img style="padding: 10px" width="460" height="300" src="https://snmizeras.github.io/portfolio/04-nature_721703848.jpg">
+  <img style="padding: 10px" width="460" height="300" src="https://snmizeras.github.io/portfolio/loveourplanet-4851331__340.webp"> 
+  <img style="padding: 10px" width="460" height="300" src="https://snmizeras.github.io/portfolio/photo-1541963463532-d68292c34b19.jfif">
 </p>
 
 <p align="center">
-  <img style="padding: 10px width="460" height="300" src="https://snmizeras.github.io/portfolio/04-nature_721703848.jpg">
-  <img style="padding: 10px width="460" height="300" src="https://snmizeras.github.io/portfolio/loveourplanet-4851331__340.webp"> 
-  <img style="padding: 10px width="460" height="300" src="https://snmizeras.github.io/portfolio/photo-1541963463532-d68292c34b19.jfif">
+  <img style="padding: 10px" width="460" height="300" src="https://snmizeras.github.io/portfolio/04-nature_721703848.jpg">
+  <img style="padding: 10px" width="460" height="300" src="https://snmizeras.github.io/portfolio/loveourplanet-4851331__340.webp"> 
+  <img style="padding: 10px" width="460" height="300" src="https://snmizeras.github.io/portfolio/photo-1541963463532-d68292c34b19.jfif">
 </p>
 
 <p align="center">
-  <img style="padding: 10px width="460" height="300" src="https://snmizeras.github.io/portfolio/04-nature_721703848.jpg">
-  <img style="padding: 10px width="460" height="300" src="https://snmizeras.github.io/portfolio/loveourplanet-4851331__340.webp"> 
-  <img style="padding: 10px width="460" height="300" src="https://snmizeras.github.io/portfolio/photo-1541963463532-d68292c34b19.jfif">
+  <img style="padding: 10px" width="460" height="300" src="https://snmizeras.github.io/portfolio/04-nature_721703848.jpg">
+  <img style="padding: 10px" width="460" height="300" src="https://snmizeras.github.io/portfolio/loveourplanet-4851331__340.webp"> 
+  <img style="padding: 10px" width="460" height="300" src="https://snmizeras.github.io/portfolio/photo-1541963463532-d68292c34b19.jfif">
 </p>
