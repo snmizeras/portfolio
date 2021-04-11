@@ -5,6 +5,17 @@
 </p>
 
 
+<p align="left">
+test
+</p>
+
 test
 
-test test
+<p>
+test
+</p>
+
+
+<p align="right">
+test
+</p>
