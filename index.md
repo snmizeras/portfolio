@@ -9,4 +9,4 @@
 
 
 
-![First Image](https://snmizeras.github.io/portfolio/04-nature_721703848.jpg){: align="left"}&nbsp;![Second Image](https://snmizeras.github.io/portfolio/loveourplanet-4851331__340.webp)
+![First Image](https://snmizeras.github.io/portfolio/04-nature_721703848.jpg)&nbsp;![Second Image](https://snmizeras.github.io/portfolio/loveourplanet-4851331__340.webp)
